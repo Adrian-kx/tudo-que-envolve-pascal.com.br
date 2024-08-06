@@ -59,6 +59,23 @@
         Este código exemplifica a criação e a visualização de uma matriz de
         adjacência para um grafo com 4 vértices.
 
+    Grafo Dirigido (ou Digrafo)
+  
+        Direção das Arestas: As arestas têm uma direção específica. Isto significa que se
+        existe uma aresta do vértice A para o vértice B, essa conexão é unidirecional e
+        não implica uma conexão de B para A, a menos que explicitamente especificado.
+        Representação: Em uma matriz de adjacência, se houver uma aresta do vértice i para
+        o vértice j, a célula (i, j) conterá 1. A célula (j, i) conterá 0, a menos que haja
+        também uma aresta de j para i.
+        Exemplo: Redes sociais, onde uma pessoa pode seguir outra, mas isso não implica necessariamente reciprocidade.
+
+    Grafo Não Dirigido
+        Direção das Arestas: As arestas não têm direção. Isto significa que se existe
+        uma aresta entre o vértice A e o vértice B, essa conexão é bidirecional.
+        A conexão de A para B implica uma conexão de B para A.
+        Representação: Em uma matriz de adjacência, se houver uma aresta entre
+        os vértices i e j, ambas as células (i, j) e (j, i) conterão 1.
+        Exemplo: Redes de amizade, onde uma relação de amizade é mutuamente reconhecida.
 
 
   MATRIZ DE CUSTO
