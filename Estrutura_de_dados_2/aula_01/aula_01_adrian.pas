@@ -61,7 +61,10 @@
 
 
 
-        
+  MATRIZ DE CUSTO
+
+    segue as mesmas regras da matris de adjascencia, porem ao inves de se
+    informar 1 ou 0, coloca-se o custo para representar a aresta
 
 
 }
