@@ -10,7 +10,9 @@
         Caso o grafo seja dirigido, a representação ocorre do vértice sainte
         para o vértice entrante.
 
-    Matriz de adjacência e Grafos em Pascal
+
+
+   Matriz de adjacência e Grafos em Pascal
 
         Em Pascal, uma matriz de adjacência pode ser representada como um array
         bidimensional. A matriz de adjacência é útil para representar grafos,
