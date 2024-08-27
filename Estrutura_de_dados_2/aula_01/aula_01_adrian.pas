@@ -70,6 +70,7 @@
         Exemplo: Redes sociais, onde uma pessoa pode seguir outra, mas isso não implica necessariamente reciprocidade.
 
     Grafo Não Dirigido
+
         Direção das Arestas: As arestas não têm direção. Isto significa que se existe
         uma aresta entre o vértice A e o vértice B, essa conexão é bidirecional.
         A conexão de A para B implica uma conexão de B para A.
@@ -83,5 +84,7 @@
     segue as mesmas regras da matris de adjascencia, porem ao inves de se
     informar 1 ou 0, coloca-se o custo para representar a aresta
 
+
+    fazer mapa rodoviario de 15 cidades
 
 }

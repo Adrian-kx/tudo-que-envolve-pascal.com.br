@@ -1,0 +1,59 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+select, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+.result p {
+    background-color: #164792;
+    padding: 10px;
+    border-radius: 4px;
+    color: #f7f7f7;
+}
+
+.result p span {
+    font-weight: bold;
+}
+
+img{
+    width: 100%;
+}
+
+button{
+
+}
